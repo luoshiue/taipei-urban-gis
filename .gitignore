@@ -23,5 +23,7 @@ logs/
 
 #Raw GIS data
 data/raw/
-
 *.txt
+
+#Generated spatial outputs
+data/processed/*.gpkg
